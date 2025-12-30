@@ -5,6 +5,8 @@ A modern, full-stack web application for extracting and analyzing content from a
 ![Web Content Extractor](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+website link: https://web-content-extractor-git-main-code22s-projects.vercel.app?_vercel_share=ZR5SmTiCdmgd3Qo3i6G9upbbN3fDHr9R
+
 ## ✨ Features
 
 ### 🎯 Core Features
@@ -200,3 +202,4 @@ For issues and questions:
 ---
 
 **Star ⭐ this repository if you found it helpful!**
+
